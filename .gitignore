@@ -1,0 +1,13 @@
+# File konfigurasi database lokal
+/config/database.php
+
+# File hasil ekspor laporan
+/exports/*
+
+# Kecuali file penanda folder jika diperlukan
+!/exports/.gitkeep
+
+# File sistem dan editor
+.DS_Store
+Thumbs.db
+.vscode/
